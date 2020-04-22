@@ -5,13 +5,13 @@ Most of these codes are based on the Coursera course 'Improving Deep Neural Netw
 
 ## Theory
 
-- Notes taken from the course: ...
+- Notes taken from the course: https://www.coursera.org/learn/deep-neural-network.
 
 ## Part 1: Practical aspects of Deep Learning
 
-- Initialization schemes (zeros vs large random weights vs He init.): ...
-- Regularization methods (no reg. vs L2 reg. vs dropout): ...
-- Gradient checking: ...
+- Initialization schemes (zeros vs large random weights vs He init.): 
+- Regularization methods (no reg. vs L2 reg. vs dropout): 
+- Gradient checking: 
 
 ## Part 2: Optimization algorithms
 
