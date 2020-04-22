@@ -5,6 +5,7 @@ Most of these codes are based on the Coursera course 'Improving Deep Neural Netw
 
 ## Theory
 
+- Notes by me: https://github.com/alzaia/improving_neural_nets_python/blob/master/Improving_NeuralNets_Notes_AZ.pdf.
 - Notes taken from the course: https://www.coursera.org/learn/deep-neural-network.
 
 ## Part 1: Practical aspects of Deep Learning
